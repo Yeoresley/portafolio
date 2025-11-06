@@ -1,0 +1,20 @@
+{
+  "nav.products": "Products",
+  "nav.about": "Why ASSI?",
+  "nav.blog": "Blog",
+  "nav.cases": "Case Studies",
+  "nav.contact": "Contact",
+  "cta.demo": "Request demo",
+  "hero.title": "Software that accelerates decisions.",
+  "hero.subtitle": "Less friction, more control.",
+  "hero.body": "We build, implement and operate web solutions for internal control, finance and operations. Multi-entity, scalable and audit-ready.",
+  "products.title": "Products",
+  "products.subtitle": "Suite for internal control, accounting, logistics and decision-making.",
+  "cases.title": "Case Studies",
+  "cases.subtitle": "Real results with measurable KPIs.",
+  "blog.title": "Blog",
+  "blog.subtitle": "Tech notes, releases and best practices.",
+  "contact.title": "Contact",
+  "contact.sent": "Message sent! We will reach out soon.",
+  "contact.error": "Could not send. Check server config."
+}

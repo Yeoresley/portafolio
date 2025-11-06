@@ -1,0 +1,1 @@
+export default function About(){return (<section className='container py-14'><h1 className='text-3xl font-bold'>¿Por qué ASSI?</h1><p className='mt-2 text-slate-600'>Equipo serio, disponible y orientado a resultados. Actualización continua y calidad de entrega.</p></section>);}

@@ -1,0 +1,20 @@
+{
+  "nav.products": "Productos",
+  "nav.about": "¿Por qué ASSI?",
+  "nav.blog": "Blog",
+  "nav.cases": "Casos de éxito",
+  "nav.contact": "Contacto",
+  "cta.demo": "Solicitar demo",
+  "hero.title": "Software que acelera decisiones.",
+  "hero.subtitle": "Menos fricción, más control.",
+  "hero.body": "Desarrollamos, implementamos y operamos soluciones web para control interno, finanzas y operaciones. Multi‑entidad, escalables y listas para auditoría.",
+  "products.title": "Productos",
+  "products.subtitle": "Suite para control interno, contabilidad, logística y toma de decisiones.",
+  "cases.title": "Casos de éxito",
+  "cases.subtitle": "Resultados reales con KPIs medibles.",
+  "blog.title": "Blog",
+  "blog.subtitle": "Notas técnicas, lanzamientos y buenas prácticas.",
+  "contact.title": "Contacto",
+  "contact.sent": "¡Mensaje enviado! Te contactaremos pronto.",
+  "contact.error": "No se pudo enviar. Revisa la configuración del servidor."
+}

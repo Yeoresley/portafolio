@@ -1,0 +1,1 @@
+import ProductsGrid from '../../../components/ProductsGrid';export default function P(){return (<section className='container py-14'><h1 className='text-3xl font-bold'>Productos</h1><div className='mt-8'><ProductsGrid/></div></section>);}
