@@ -15,3 +15,7 @@ export default function Page(){
     </>
   );
 }
+
+import { redirect } from 'next/navigation';
+export default function Root() { redirect('/es'); }
+
